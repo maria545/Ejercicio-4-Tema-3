@@ -7,7 +7,7 @@
         mc:Ignorable="d"
         Title="Visor de imágenes" Height="493.389" Width="581.817"
         Icon="222.ico"
-        MinHeight="493" MinWidth="581">
+        MinHeight="490" MinWidth="580">
     <DockPanel>
         
         <DockPanel DockPanel.Dock="Bottom"  Height="70" Background="LightBlue" Margin="10">
@@ -29,6 +29,7 @@
                 </StackPanel>
             </DockPanel>
         </Border>
+        
         <TextBlock DockPanel.Dock="Top" Text="Visor de Imágenes" TextAlignment="Center" FontSize="40" FontFamily="Rubik"/>
 
         <WrapPanel>
